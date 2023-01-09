@@ -2,3 +2,7 @@ body {
     background-color: black;
     color: whitesmoke;
 }
+p.primer {
+    columns: 4;
+    text-align: center;    
+}
